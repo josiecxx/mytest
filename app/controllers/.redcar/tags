@@ -1,0 +1,6 @@
+1314368797
+ApplicationController	C:/Sites/mytest/app/controllers/application_controller.rb	class ApplicationController 
+WelcomController	C:/Sites/mytest/app/controllers/welcom_controller.rb	class WelcomController 
+WelcomeController	C:/Sites/mytest/app/controllers/welcome_controller.rb	class WelcomeController 
+index	C:/Sites/mytest/app/controllers/welcom_controller.rb	  def index
+index	C:/Sites/mytest/app/controllers/welcome_controller.rb	  def index
